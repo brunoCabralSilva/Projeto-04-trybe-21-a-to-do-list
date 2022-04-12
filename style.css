@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+body{
+  margin-top: 50px;  
+  background-image: url('https://mcdn.wallpapersafari.com/medium/24/15/aU5VCZ.jpg');
+  background-size: cover;
+}
+
+header {
+  font-size: 30px;
+  color: white;
+}
+
+input{
+  padding: 20px;
+  font-size: 20px;
+}
+
+button {
+  padding: 20px;
+  font-size: 18px;
+}
+
+#funcionamento{
+    margin-bottom: 40px;
+    font-size: 25px;
+    color: white;
+}
+
+.lista {
+  padding: 10px;
+  margin-left: 15px;
+  list-style-type: none;
+  background-color: white;
+  margin: 5px auto;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+ol {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+}
+
+#backgroundGray {
+    background-color: gray;
+    padding: 5px;
+}
+
+.completed{
+    text-decoration: line-through;
+}
+
+#apaga-tudo{
+    margin-top: 50px;
+}
